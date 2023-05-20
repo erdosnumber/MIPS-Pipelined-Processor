@@ -1,8 +1,3 @@
-/**
- * @file MIPS_Processor.hpp
- * @author Mallika Prabhakar and Sayam Sethi
- * 
- */
 
 #ifndef __MIPS_PROCESSOR_HPP__
 #define __MIPS_PROCESSOR_HPP__
